@@ -1,4 +1,5 @@
 fastapi[all]
 openai
 langchain
+chromadb
 typing

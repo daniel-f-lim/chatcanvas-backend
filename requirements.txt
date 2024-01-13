@@ -1,4 +1,4 @@
 fastapi[all]
 openai
-
+langchain
 typing

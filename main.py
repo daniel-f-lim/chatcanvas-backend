@@ -1,6 +1,7 @@
 # command line instruction:
 #
-# uvicorn main:app --reload
+# uvicorn main:app --reload  (local)
+# uvicorn main:app --host 0.0.0.0 --port 10000  (render)
 #
 # main - name of python file (main.py)
 # app - name of the varibale that is assigned the FastAPI object

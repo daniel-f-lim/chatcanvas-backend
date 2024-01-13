@@ -3,4 +3,3 @@ openai==1.6.0
 langchain==0.0.352
 langchain-community==0.0.6
 chromadb==0.4.21
-sqlite3==3.35.0

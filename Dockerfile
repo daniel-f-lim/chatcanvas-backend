@@ -4,9 +4,6 @@ FROM python:3.11-slim
 # Set the working directory in the container
 WORKDIR /app
 
-# Environment variables within image
-ENV OpenAI_Key=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
-
 # Copy the requirements file into the container at /app
 COPY requirements.txt /app/
 
